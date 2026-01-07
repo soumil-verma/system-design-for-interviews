@@ -17,6 +17,7 @@ This repo is my **personal learning journal + interview prep playbook**, where I
 🎯 **Goal:** Become confident enough to design systems on a whiteboard under pressure.
 
 ---
+
 ## 🧠 What This Repo Covers
 
 ### 1️⃣ Foundations (Non-Negotiable)
@@ -44,7 +45,6 @@ This repo is my **personal learning journal + interview prep playbook**, where I
 
 ---
 
-
 ### 3️⃣ Distributed Systems Concepts
 - Horizontal vs Vertical Scaling
 - Microservices vs Monolith
@@ -56,6 +56,7 @@ This repo is my **personal learning journal + interview prep playbook**, where I
 - Back-pressure
 
 ---
+
 ### 4️⃣ System Design Case Studies (Interview Style)
 Designing systems like:
 - URL Shortener
@@ -75,6 +76,7 @@ Each case study includes:
 - Improvements
 
 ---
+
 ### 5️⃣ Interview Preparation
 - How to approach a System Design interview
 - Common mistakes candidates make
@@ -83,6 +85,7 @@ Each case study includes:
 - Mock interview notes
 
 ---
+
 ## 🗂️ Repository Structure
 
 ```text
@@ -113,7 +116,3 @@ system-design-for-interviews/
 │   ├── common-mistakes.md
 │
 └── README.md
-
-
-
-
