@@ -30,6 +30,17 @@ This repo is my **personal learning journal + interview prep playbook**, where I
 
 ---
 
+### 2️⃣ Core Building Blocks
+- Load Balancers
+- Caching (Redis, CDN)
+- Databases  
+  - SQL vs NoSQL  
+  - Sharding & Replication  
+- Indexing
+- Message Queues
+- Rate Limiting
+- API Design
+- Authentication & Authorization
 
-└── README.md
+---
 
