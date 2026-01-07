@@ -56,4 +56,23 @@ This repo is my **personal learning journal + interview prep playbook**, where I
 - Back-pressure
 
 ---
+### 4️⃣ System Design Case Studies (Interview Style)
+Designing systems like:
+- URL Shortener
+- Chat Application
+- Notification System
+- File Storage (Google Drive-like)
+- News Feed
+- Rate Limiter
+- E-commerce backend
+
+Each case study includes:
+- Requirements clarification
+- High-level design
+- Deep dives
+- Bottlenecks
+- Trade-offs
+- Improvements
+
+---
 
