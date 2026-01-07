@@ -17,4 +17,19 @@ This repo is my **personal learning journal + interview prep playbook**, where I
 🎯 **Goal:** Become confident enough to design systems on a whiteboard under pressure.
 
 ---
+## 🧠 What This Repo Covers
+
+### 1️⃣ Foundations (Non-Negotiable)
+- What is System Design?
+- Functional vs Non-Functional Requirements
+- Scalability, Availability, Reliability
+- Latency vs Throughput
+- CAP Theorem
+- Consistency Models
+- Trade-offs (ALWAYS asked in interviews)
+
+---
+
+
+└── README.md
 
