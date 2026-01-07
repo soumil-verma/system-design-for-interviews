@@ -44,3 +44,16 @@ This repo is my **personal learning journal + interview prep playbook**, where I
 
 ---
 
+
+### 3️⃣ Distributed Systems Concepts
+- Horizontal vs Vertical Scaling
+- Microservices vs Monolith
+- Event-driven architecture
+- Data partitioning
+- Leader election
+- Fault tolerance
+- Idempotency
+- Back-pressure
+
+---
+
