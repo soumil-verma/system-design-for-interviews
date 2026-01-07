@@ -83,6 +83,37 @@ Each case study includes:
 - Mock interview notes
 
 ---
+## 🗂️ Repository Structure
+
+```text
+system-design-for-interviews/
+│
+├── 01-basics/
+│   ├── what-is-system-design.md
+│   ├── functional-vs-nonfunctional.md
+│   ├── scalability.md
+│
+├── 02-core-components/
+│   ├── load-balancer.md
+│   ├── caching.md
+│   ├── databases.md
+│
+├── 03-distributed-systems/
+│   ├── cap-theorem.md
+│   ├── consistency-models.md
+│   ├── sharding-replication.md
+│
+├── 04-case-studies/
+│   ├── url-shortener.md
+│   ├── chat-application.md
+│   ├── file-storage.md
+│
+├── 05-interview-notes/
+│   ├── interview-strategy.md
+│   ├── common-mistakes.md
+│
+└── README.md
+
 
 
 
