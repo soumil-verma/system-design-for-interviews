@@ -75,4 +75,14 @@ Each case study includes:
 - Improvements
 
 ---
+### 5️⃣ Interview Preparation
+- How to approach a System Design interview
+- Common mistakes candidates make
+- How to communicate clearly
+- How to handle follow-up questions
+- Mock interview notes
+
+---
+
+
 
